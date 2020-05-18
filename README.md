@@ -1,1 +1,3 @@
-# machine-learning-but-for-idiots
+# Machine Learning, But For Idiots
+
+Lower your expectations. 
