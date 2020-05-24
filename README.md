@@ -16,11 +16,12 @@ Lower your expectations.
 * [List of classic datasets](https://en.wikipedia.org/wiki/Data_set#Classic_data_sets)
 
 
-## Math
+## Mathematical Concepts
 
 * [Multivariate random variable](https://en.wikipedia.org/wiki/Multivariate_random_variable)
 * [Estimator](https://en.wikipedia.org/wiki/Estimator)
 * [Tail-heavy distribution](https://en.wikipedia.org/wiki/Heavy-tailed_distribution)
+* [Sparse Matrix](https://en.wikipedia.org/wiki/Sparse_matrix)
 
 ## ML Algorithms
 * [Random forest](https://en.wikipedia.org/wiki/Random_forest)
