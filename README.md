@@ -14,7 +14,7 @@ Lower your expectations.
 * [NumPy Quickstart](https://numpy.org/devdocs/user/quickstart.html)
 * [scikit-learn user guide](https://scikit-learn.org/stable/user_guide.html)
 * [List of classic datasets](https://en.wikipedia.org/wiki/Data_set#Classic_data_sets)
-
+* [matplotlib](https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py)
 
 ## Mathematical Concepts
 
